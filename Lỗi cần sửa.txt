@@ -1,0 +1,4 @@
+Register: khi đăng ký thành công thì sẽ gửi 1 email tới email của người đăng ký.
+Login: phần forgotpassword vẫn chưa có làm
+Profile Admin: bị lỗi ở phần address
+Category: bị lỗi khi update thì bị lỗi phần ảnh
